@@ -1,5 +1,11 @@
 # TIM-2023
 
+## Membre du groupe
+- Chattelain batiste
+- aulivia maxim
+- trycaut taumass
+- ARNAULT Aurélien
+
 ## Sujet
 
 Un meurtre a eu lieu dans le quartier parfait, provoquant un tollé au sein de la communauté locale.
